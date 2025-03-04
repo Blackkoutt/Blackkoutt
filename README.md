@@ -2,7 +2,7 @@
 💻🚀 <b>Full-Stack Developer (.NET + React)</b>
 <br/><br/>
 # 👨‍💻 About me:
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380">
 <div align="right" width="100"></div>
 Currently finishing my Bachelor's in Computer Science, passionate about coding, and always eager to face new challenges!
 <br/><br/>
