@@ -10,7 +10,7 @@ Currently finishing my Bachelor's in Computer Science, passionate about coding, 
 📖 I’m currently learning: ASP.NET, Azure Platform, React <br/>
 🚀 Interested in: clean code principles, AI, cloud technologies<br/>
 💬 Looking for: opportunities to grow and develop my skills
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 # 🛠️ Tech Stack:
 <table width="100%" align="center"><tr><td valign="top" align="center" width="33%">
@@ -60,7 +60,7 @@ Currently finishing my Bachelor's in Computer Science, passionate about coding, 
   <a target="_blank" href="https://www.figma.com/"><img style="margin: 10px" height="50" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma"/></a>
 </div>
 
-</td></tr></table><br/>
+</td></tr></table>
 
 # ✉️ Contact me:
 <a href="mailto:mateusz.strapczuk@gmail.com"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
@@ -79,7 +79,7 @@ Currently finishing my Bachelor's in Computer Science, passionate about coding, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Blackkoutt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Blackkoutt&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 
