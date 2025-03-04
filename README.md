@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mateusz</h1>
 💻🚀 <b>Full-Stack Developer (.NET + React)</b>
-
+<br/><br/>
 # 👨‍💻 About me:
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420">
 <div align="right" width="100"></div>
@@ -10,13 +10,7 @@ Currently finishing my Bachelor's in Computer Science, passionate about coding, 
 📖 I’m currently learning: ASP.NET, Azure Platform, React <br/>
 🚀 Interested in: clean code principles, AI, cloud technologies<br/>
 💬 Looking for: opportunities to grow and develop my skills
-<br/><br/>
-✉️<b> Contact with me:</b><br/>
-<a href="mailto:mateusz.strapczuk@gmail.com"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
-<a href="https://www.linkedin.com/in/mateuszstrapczuk/"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-<a href="https://www.facebook.com/mateusz.strapczuk"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/></a>
-<br/><br/>
-
+<br/><br/><br/><br/>
 
 # 🛠️ Tech Stack:
 <table width="100%" align="center"><tr><td valign="top" align="center" width="33%">
@@ -66,10 +60,13 @@ Currently finishing my Bachelor's in Computer Science, passionate about coding, 
   <a target="_blank" href="https://www.figma.com/"><img style="margin: 10px" height="50" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma"/></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table><br/>
 
-<br/>  
-
+# ✉️ Contact me:
+<a href="mailto:mateusz.strapczuk@gmail.com"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+<a href="https://www.linkedin.com/in/mateuszstrapczuk/"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
+<a href="https://www.facebook.com/mateusz.strapczuk"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/></a>
+<br/><br/>
 
 # 🔥 GitHub Stats:
 <div align="center">
