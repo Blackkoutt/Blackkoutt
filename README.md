@@ -1,85 +1,134 @@
-# Hi 👋, I'm Mateusz</h1>
-💻🚀 <b>Full-Stack Developer (.NET + React)</b>
-<br/><br/>
-# 👨‍💻 About me:
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380">
-<div align="right" width="100"></div>
-Graduated with a Bachelor's in Computer Science, passionate about coding, and always eager to face new challenges!
-<br/><br/>
-🔭 I’m currently working on: EventFlow<br/>
-📖 I’m currently learning: ASP.NET, Azure Platform, React <br/>
-🚀 Interested in: clean code principles, AI, cloud technologies<br/>
-💬 Looking for: opportunities to grow and develop my skills
-<br/><br/><br/>
-
-# 🛠️ Tech Stack:
-<table width="100%" align="center"><tr><td valign="top" align="center" width="33%">
-
-### Frontend  
 <div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a><br/>   
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 
-</td><td valign="top" align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=220&section=header&text=Hey,%20I'm%20Mateusz%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MSc%20CS%20Student%20%C2%B7%20AI%20Explorer&descAlignY=60&descSize=19&animation=fadeIn" />
 
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=.NET+%2B+React+Developer+%F0%9F%9A%80;1%2B+year+of+professional+experience+%F0%9F%92%BC;MSc+Computer+Science+student+%F0%9F%8E%93;Exploring+Claude+Code+and+AI-powered+development+%F0%9F%A4%96;Clean+Architecture+%26+DDD+enthusiast+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt=".Net Core" height="50" /></a> <br/>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a><br/>
-<a target="_blank" href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16"><img style="margin: 10px" height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" /></a>
-<a target="_blank" href="https://docs.oracle.com/en/"><img style="margin: 10px" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" /></a>
-<a target="_blank" href="https://www.sqlite.org/"><img style="margin: 10px" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" /></a>
-</div>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszstrapczuk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusz.strapczuk@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mateusz.strapczuk)
+[![Profile Views](https://komarev.com/ghpvc/?username=Blackkoutt&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/Blackkoutt)
+
 </div>
 
+---
 
-</td><td valign="top" align="center" width="33%">
+## 🧠 About Me
 
+<table>
+<tr>
+<td valign="middle" width="60%">
 
+<br/>
 
-### Tools  
-<div align="center">  
-  <a target="_blank" href="https://www.atlassian.com/software/jira"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira"/></a>
-  <a target="_blank" href="https://www.atlassian.com/software/confluence"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence"/></a>
-    <a target="_blank" href="https://github.com/"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github"/></a><br/>
-      <a target="_blank" href="https://visualstudio.microsoft.com/"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio"/></a>
-      <a target="_blank" href="https://code.visualstudio.com/"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vs code"/></a>
-            <a target="_blank" href="https://azure.microsoft.com/"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure"/></a><br/>
-<a target="_blank" href="https://git-scm.com/"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/></a>
-<a target="_blank" href="#"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/></a>
-  <a target="_blank" href="https://www.figma.com/"><img style="margin: 10px" height="50" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma"/></a>
-</div>
+**Mateusz Strapczuk** &nbsp;·&nbsp; 🇵🇱 Poland
 
-</td></tr></table>
+[![Role](https://img.shields.io/badge/Full--Stack%20Developer-.NET%20%2B%20React-0ea5e9?style=for-the-badge&logoColor=white&logo=dotnet)](.)
+[![Education](https://img.shields.io/badge/MSc%20Computer%20Science-In%20Progress-6366f1?style=for-the-badge&logo=graduation-cap&logoColor=white)](.)
+[![Experience](https://img.shields.io/badge/Experience-1%2B%20Year%20Pro-059669?style=for-the-badge&logoColor=white)](.)
 
-# ✉️ Contact me:
-<a href="mailto:mateusz.strapczuk@gmail.com"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
-<a href="https://www.linkedin.com/in/mateuszstrapczuk/"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-<a href="https://www.facebook.com/mateusz.strapczuk"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/></a>
-<br/><br/>
+<br/>
 
-# 🔥 GitHub Stats:
+🎓 &nbsp;**MSc Computer Science** — currently in progress  
+💼 &nbsp;**1+ year of experience** in commercial software development  
+🚀 &nbsp;Building **scalable web applications & APIs** with .NET & React  
+🏗️ &nbsp;Passionate about **Clean Architecture · DDD · CQRS**  
+☁️ &nbsp;Interested in **Azure cloud services and ecosystem**  
+🤖 &nbsp;Exploring **Claude Code & AI-powered development**  
+🧪 &nbsp;Writing **clean, testable and maintainable code**  
+💡 &nbsp;**Always** eager to face new challenges!
+
+<br/>
+
+</td>
+<td valign="middle" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Currently Exploring
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blackkoutt&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Blackkoutt&theme=monokai&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackkoutt&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br/>
+
+### 🧩 AI Ecosystem
+
+[![Claude Code](https://img.shields.io/badge/Claude_Code-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)](.)
+[![MCP Servers](https://img.shields.io/badge/MCP_Servers-7C3AED?style=for-the-badge)](.)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge&logoColor=white)](.)
+[![Skills](https://img.shields.io/badge/Skills-5B21B6?style=for-the-badge&logoColor=white)](.)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4C1D95?style=for-the-badge&logoColor=white)](.)
+
+### 🏗️ Software Architecture
+
+[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0EA5E9?style=for-the-badge&logoColor=white)](.)
+[![Domain--Driven Design](https://img.shields.io/badge/Domain--Driven_Design-0284C7?style=for-the-badge&logoColor=white)](.)
+[![CQRS](https://img.shields.io/badge/CQRS-0369A1?style=for-the-badge&logoColor=white)](.)
+[![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-075985?style=for-the-badge&logoColor=white)](.)
+[![Microservices](https://img.shields.io/badge/Microservices-0C4A6E?style=for-the-badge&logoColor=white)](.)
+
+### ☁️ Cloud & DevOps
+
+[![Azure Services](https://img.shields.io/badge/Azure_Services-059669?style=for-the-badge&logo=microsoftazure&logoColor=white)](.)
+[![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-047857?style=for-the-badge)](.)
+[![Containerization](https://img.shields.io/badge/Containerization-065F46?style=for-the-badge&logo=docker&logoColor=white)](.)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-064E3B?style=for-the-badge&logo=github&logoColor=white)](.)
+
 </div>
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Blackkoutt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🛠️ Tech Stack
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Blackkoutt&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+<div align="center">
 
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=dark" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=light" style="display:none"/>
 
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,prisma&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mssql,sqlite,postgres&theme=dark" />
+
+### 🧰 Tools & Cloud
+<img src="https://skillicons.dev/icons?i=azure,git,github,visualstudio,vscode,figma&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,jira&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blackkoutt&bg_color=1a1b27&color=A78BFA&line=6EE7F7&point=F472B6&area=true&area_color=A78BFA&hide_border=true&custom_title=Mateusz's%20Contribution%20Graph" width="100%"/>
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blackkoutt&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blackkoutt&theme=tokyonight" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blackkoutt&theme=tokyonight" width="32%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blackkoutt&theme=tokyonight" width="32%"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blackkoutt&theme=tokyonight&hide_border=true&background=1a1b27&ring=A78BFA&fire=F472B6&currStreakLabel=6EE7F7&sideLabels=A78BFA&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:6EE7F7&height=130&section=footer&text=Always%20building.%20Always%20learning.%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
