@@ -91,7 +91,7 @@
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=dark" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=light" style="display:none"/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js&theme=dark" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,prisma&theme=dark" />
