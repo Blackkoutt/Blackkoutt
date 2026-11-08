@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60" role="img" aria-label="Contact">
+  <style>text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; } .t { fill: #F3EDE6; } .ic { stroke: #F08A4B; } .bx { stroke: #8F8798; stroke-opacity: .5; } .ln { stroke: #8F8798; stroke-opacity: .35; }
+    @media (prefers-color-scheme: light) { .t { fill: #1f2328; } .ic { stroke: #C2571A; } }
+    </style>
+  <g class="ic" transform="translate(5 15) scale(1.25)" fill="none" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 4 7.5 20M16.5 4l-2 16M4.5 9h15M4 15h15"/></g>
+  <text class="t" x="54" y="39" font-size="28" font-weight="700" letter-spacing="-.4">Contact</text>
+  <line class="ln" x1="182" y1="30" x2="1000" y2="30"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="250" viewBox="-10 0 500 250" role="img" aria-label="AI-assisted work: Using Claude Code and skills, building my own MCP servers to speed up my everyday work">
+  <style>text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; } .mono { font-family: "JetBrains Mono", "Cascadia Code", "SF Mono", Menlo, Consolas, monospace; } .bob { animation: bob 1.8s ease-in-out infinite; } @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+      .eye { transform-box: fill-box; transform-origin: center; animation: blink 5s infinite; } @keyframes blink { 0%,93%,100% { transform: scaleY(1); } 96% { transform: scaleY(.1); } }
+      .aRu { animation: au 1.6s steps(1) infinite; } .aR { animation: ad 1.6s steps(1) infinite; }
+      @keyframes au { 0%,32% { opacity: 1; } 33%,100% { opacity: 0; } } @keyframes ad { 0%,32% { opacity: 0; } 33%,100% { opacity: 1; } }
+      .tx { opacity: 0; animation: tx 4.8s linear infinite; } @keyframes tx { 0% { transform: translateX(0); opacity: 0; } 3% { opacity: 1; } 46% { opacity: 1; } 50%,100% { transform: translateX(52px); opacity: 0; } }
+      .ty { animation: ty 4.8s linear infinite; } @keyframes ty { 0% { transform: translateY(0); animation-timing-function: cubic-bezier(.2,.7,.4,1); } 22% { transform: translateY(-48px); animation-timing-function: ease-in; } 50%,100% { transform: translateY(-26px); } }
+      .st { transform-box: fill-box; transform-origin: center; animation: st 3s ease-out infinite; } @keyframes st { 0% { transform: translateY(0) scale(.8); opacity: 0; } 20% { opacity: .95; } 100% { transform: translateY(-30px) scale(1.15); opacity: 0; } }
+      .fire { transform-box: fill-box; transform-origin: center bottom; animation: fire .7s ease-in-out infinite; } @keyframes fire { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(.65); } }
+      .pop { transform-box: fill-box; transform-origin: center; animation: pop 1.6s ease-out infinite; } @keyframes pop { 0% { transform: scale(0); opacity: 0; } 40% { transform: scale(1); opacity: .9; } 70%,100% { transform: scale(1.5); opacity: 0; } }
+      .tb1, .tb2 { transform-box: fill-box; transform-origin: left center; animation-duration: 12s; animation-timing-function: steps(11, end); animation-iteration-count: infinite; }
+      .tb1 { animation-name: tb1; } .tb2 { animation-name: tb2; }
+      @keyframes tb1 { 0% { transform: scaleX(0); } 12% { transform: scaleX(1); } 44% { transform: scaleX(1); } 47%,100% { transform: scaleX(0); } }
+      @keyframes tb2 { 0%,50% { transform: scaleX(0); } 62% { transform: scaleX(1); } 94% { transform: scaleX(1); } 97%,100% { transform: scaleX(0); } } </style>
+  <rect x=".5" y=".5" width="489" height="229" rx="12" fill="#1C1923" stroke="#2E2A38"/>
+  <rect x="28" y="28" width="44" height="44" rx="11" fill="none" stroke="#2E2A38"/>
+  <g transform="translate(38 38) scale(1)" fill="none" stroke="#F08A4B" stroke-width="1.70" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7z"/><path d="M19 15c.3 1.7 1 2.5 2.5 2.8-1.5.3-2.2 1-2.5 2.7-.3-1.7-1-2.4-2.5-2.7 1.5-.3 2.2-1.1 2.5-2.8z"/></g>
+  <text x="28" y="108" font-size="22" font-weight="700" fill="#F3EDE6" letter-spacing="-.3">AI-assisted work</text>
+  <text x="28" y="134" font-size="15" fill="#8F8798">Using Claude Code and skills,</text><text x="28" y="156" font-size="15" fill="#8F8798">building my own MCP servers</text><text x="28" y="178" font-size="15" fill="#8F8798">to speed up my everyday work</text>
+  <polygon points="318,106 334,106 322,124" fill="#15131A" stroke="#F08A4B" stroke-width="1.5" stroke-linejoin="round"/>
+      <rect x="290" y="68" width="112" height="38" rx="10" fill="#15131A" stroke="#F08A4B" stroke-width="1.5"/>
+      <rect x="319.5" y="103" width="13" height="4" fill="#15131A"/>
+      <clipPath id="cb1"><rect class="tb1" x="296" y="74" width="100" height="26"/></clipPath><clipPath id="cb2"><rect class="tb2" x="296" y="74" width="100" height="26"/></clipPath>
+      <text class="mono" x="304" y="92" font-size="13" font-weight="600" fill="#F3EDE6" clip-path="url(#cb1)">let's cook<tspan fill="#F08A4B">!</tspan></text>
+      <text class="mono" x="304" y="92" font-size="13" font-weight="600" fill="#F3EDE6" clip-path="url(#cb2)">ship it<tspan fill="#F08A4B">!</tspan></text><rect x="262" y="206" width="222" height="3" rx="1.5" fill="#2E2A38"/>
+      <rect x="390" y="198" width="72" height="8" rx="3" fill="#2E2A38"/>
+      <path class="fire" style="animation-delay:0.00s" d="M406 198 q-5 -7 0 -14 q2 5 5 3 q4 5 0 11 z" fill="#F08A4B" fill-opacity=".9"/><path class="fire" style="animation-delay:0.25s" d="M426 198 q-5 -7 0 -14 q2 5 5 3 q4 5 0 11 z" fill="#F08A4B" fill-opacity=".9"/><path class="fire" style="animation-delay:0.50s" d="M446 198 q-5 -7 0 -14 q2 5 5 3 q4 5 0 11 z" fill="#F08A4B" fill-opacity=".9"/><path d="M396 154 h60 v30 a8 8 0 0 1 -8 8 h-44 a8 8 0 0 1 -8 -8 z" fill="#524d59" stroke="#2E2A38"/>
+      <rect x="392" y="150" width="68" height="8" rx="4" fill="#a8a1ac"/>
+      <ellipse cx="426" cy="153" rx="26" ry="3" fill="#F08A4B" fill-opacity=".85"/>
+      <path d="M384 168 h8 M460 168 h8" stroke="#a8a1ac" stroke-width="4" stroke-linecap="round"/>
+      <text class="mono" x="426" y="181" text-anchor="middle" font-size="11" letter-spacing=".5" fill="#F3EDE6" fill-opacity=".75">main()</text>
+      <circle class="pop" style="animation-delay:0.00s" cx="410" cy="151" r="2.6" fill="#F3EDE6" fill-opacity=".8"/><circle class="pop" style="animation-delay:0.55s" cx="426" cy="151" r="2.6" fill="#F3EDE6" fill-opacity=".8"/><circle class="pop" style="animation-delay:1.10s" cx="442" cy="151" r="2.6" fill="#F3EDE6" fill-opacity=".8"/><text class="st mono" style="animation-delay:0.0s" x="438" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#F08A4B">&lt;/&gt;</text><text class="st mono" style="animation-delay:1.5s" x="462" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#CFC7D2">{ }</text><g class="bob">
+      <rect x="314" y="134" width="32" height="8" fill="#F3EDE6"/><rect x="306" y="142" width="48" height="8" fill="#F3EDE6"/><rect x="298" y="150" width="64" height="8" fill="#F3EDE6"/><rect x="306" y="158" width="48" height="8" fill="#b0aca9"/>
+      <rect x="314" y="142" width="8" height="16" fill="#b0aca9"/><rect x="338" y="142" width="8" height="16" fill="#b0aca9"/>
+      <rect x="298" y="166" width="64" height="32" fill="#F08A4B"/>
+      <rect x="290" y="182" width="8" height="8" fill="#985a37"/>
+      <rect class="aR" x="362" y="182" width="8" height="8" fill="#985a37"/><rect class="aRu" x="362" y="174" width="8" height="8" fill="#985a37"/>
+      <g class="eye"><rect x="314" y="174" width="8" height="8" fill="#15131A"/><rect x="338" y="174" width="8" height="8" fill="#15131A"/></g>
+      <rect x="314" y="190" width="32" height="8" fill="#985a37"/>
+    </g>
+    <rect x="306" y="198" width="16" height="8" fill="#985a37"/><rect x="338" y="198" width="16" height="8" fill="#985a37"/><g class="tx" style="animation-delay:0s"><g class="ty" style="animation-delay:0s"><text class="mono" x="374" y="178" text-anchor="middle" font-size="12" font-weight="700" fill="#F08A4B">await</text></g></g><g class="tx" style="animation-delay:1.6s"><g class="ty" style="animation-delay:1.6s"><text class="mono" x="374" y="178" text-anchor="middle" font-size="12" font-weight="700" fill="#F08A4B">var</text></g></g><g class="tx" style="animation-delay:3.2s"><g class="ty" style="animation-delay:3.2s"><text class="mono" x="374" y="178" text-anchor="middle" font-size="12" font-weight="700" fill="#F08A4B">async</text></g></g>
+</svg>
